@@ -1,6 +1,6 @@
+---
 # Project Title: **Car Price Prediction**
 
----
 ## 1. Introduction
 
 The automotive industry has seen a growing demand for accurate car price estimation due to various factors like increasing market competitiveness and customer preferences. Predicting car prices helps both buyers and sellers by providing insights into market trends, car depreciation, and optimal pricing strategies. Using AI/ML models for price prediction allows more precise estimations based on various car features.
